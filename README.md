@@ -58,4 +58,4 @@
 
 ## 🎶 Gel Beraber Dinleyelim
 
- <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
+ [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ff00&bar_color_cover=false)]]
