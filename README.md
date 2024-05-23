@@ -14,7 +14,7 @@
   <a href="https://tumblr.com/aedaa" target"blank_"><img width="14%" src="https://img.shields.io/badge/Tumblr%20-030303.svg?&style=for-the-badge&logo=tumblr&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31faey2jxwiym4rahbk3nhvc64fe?si=SmwTOAisSd2P4QIcf64RIg" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/al.kann0/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://www.x.com/matriiell/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Twitter%20-030303.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a><p>
+ <a href="https://www.twitter.com/matriiell/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Twitter%20-030303.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a><p>
 
 #
 
@@ -58,4 +58,4 @@
 
 ## 🎶 Gel Beraber Dinleyelim
 
- <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=Nu1RkqNeTSC1F83dQXj4pA&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
+ <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
