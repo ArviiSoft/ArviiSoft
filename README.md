@@ -1,4 +1,4 @@
-# <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+Alkan"><img align="right" width="30%" src="https://count.getloli.com/get/@:arvislayer?theme=asoul">
+# <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+Alkan+(ArviS)"><img align="right" width="30%" src="https://count.getloli.com/get/@:arvislayer?theme=asoul">
 
 <div align="center">
 <img src="https://github.com/ArviSThings/ArviSThings/assets/77463545/7291f200-1768-4e06-94aa-c4dfab0010dd" width="90%"></div>
@@ -10,10 +10,10 @@
 
 
 <p align="center">
- <a href="https://discord.com/users/241722849373454338" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/arvisthings" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/yd9wn4eb6bep381awx3ouap8p?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/al.kan0/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+ <a href="https://discord.com/users/216222397349625857" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://tumblr.com/aedaa" target"blank_"><img width="14%" src="https://img.shields.io/badge/Tumblr%20-030303.svg?&style=for-the-badge&logo=tumblr&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31faey2jxwiym4rahbk3nhvc64fe?si=SmwTOAisSd2P4QIcf64RIg" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/al.kann0/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 #
 
@@ -23,7 +23,7 @@
 ・ 19 yaşındayım. 4 yıldır yazılıma ilgiliyim. Prensiplerim doğrultusunda, kendi çapımda yaşamaya çalışıyorum.<br>
  <br> <br> <br>
 
-・ Karşınızda Mütişmel 🤮 [Luppux](https://discord.gg/luppux) <br>
+・ Karşınızda Mütişmel 🍬 [Luppux](https://discord.gg/luppux) <br>
 ・ Kişisel 🌐 [Websitesi](https://arvis-1.gitbook.io/arvis/) <br>
 </samp>
 
