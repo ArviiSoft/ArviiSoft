@@ -1,4 +1,4 @@
-# <img src="https://github.com/ArviiSoft/ArviiSoft/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+Alkan"><img align="right" width="30%" src="https://count.getloli.com/get/@:arviisoft?theme=asoul">
+# <img src="https://github.com/ArviiSoft/ArviiSoft/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+Alkan"><img align="right" width="30%" src="https://count.getloli.com/get/@:arvislayer?theme=asoul">
 
 <div align="center">
 <img src="https://github.com/ArviSThings/ArviSThings/assets/77463545/7291f200-1768-4e06-94aa-c4dfab0010dd" width="90%"></div>
