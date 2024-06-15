@@ -22,13 +22,13 @@
 
 #
 
-💖 HAKKIMDA
+## 💖 HAKKIMDA
 <samp>
 ・ 19 yaşındayım. 4 yıldır yazılıma uğraşıyorum. 8 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum. Prensiplerim doğrultusunda, kendi çapımda hayatta kalıyorum.<br>
  <br> <br>
 
-# 🍬 ・ Karşınızda Mütişmel [AEDA Development](https://discord.gg/m4KsPdq9uX) <br>
-# 🌐 ・ Kişisel [Websitem](https://alkan.web.tr) <br>
+### 🍬 ・ Karşınızda Mütişmel [AEDA Development](https://discord.gg/m4KsPdq9uX) <br>
+### 🌐 ・ Kişisel [Websitem](https://alkan.web.tr) <br>
 </samp>
 
 #
