@@ -33,13 +33,11 @@
 
 #
 
-#
-
 <img width="30%" align="left" src="https://github.com/ArviSThings/ArviSThings/assets/77463545/ec45a240-10a2-4b46-baa3-50e344f6a51f">
 <div align="right" width="100%">
 
 
-# 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
+👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
 <p>
 <img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
 	</p>
