@@ -13,8 +13,7 @@
 <a href="https://discord.com/users/216222397349625857" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.instagram.com/al.kann0/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31faey2jxwiym4rahbk3nhvc64fe?si=SmwTOAisSd2P4QIcf64RIg" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<p align="center">
-<a href="https://www.twitter.com/matriiell/" target"blank_"><img width="14%" src="https://img.shields.io/badge/Twitter%20-030303.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a><p>
+<a href="https://www.twitter.com/matriiell/" target"blank_"><img width="14%" src="https://img.shields.io/badge/Twitter%20(X)%20-030303.svg?&style=for-the-badge&logo=x&logoColor=white"></a><p>
 <a href="https://www.linkedin.com/in/arviisoft/" target"blank_"><img width="14%" src="https://img.shields.io/badge/Linkedin%20-030303.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><p>
 <a href="https://tumblr.com/aedaa" target"blank_"><img width="14%" src="https://img.shields.io/badge/Tumblr%20-030303.svg?&style=for-the-badge&logo=tumblr&logoColor=white"></a>
 <a href="https://www.snapchat.com/add/matriell?share_id=dvou6-luAS4&locale=en-US" target"blank_"><img width="14%" src="https://img.shields.io/badge/Snapchat%20-030303.svg?&style=for-the-badge&logo=snapchat&logoColor=white"></a>
@@ -22,15 +21,16 @@
 
 #
 
-## 💖 HAKKIMDA
-
+# 💖 HAKKIMDA
 <samp>
-・ 19 yaşındayım. 4 yıldır yazılıma uğraşıyorum. 8 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum. Prensiplerim doğrultusunda, kendi çapımda hayatta kalıyorum.<br>
+## ・ 19 yaşındayım. 4 yıldır yazılıma uğraşıyorum. 8 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum. Prensiplerim doğrultusunda, kendi çapımda hayatta kalıyorum.<br>
  <br> <br>
 
-🍬 ・ Karşınızda Mütişmel [AEDA Development](https://discord.gg/m4KsPdq9uX) <br>
-🌐 ・ Kişisel [Websitem](https://alkan.web.tr) <br>
+## 🍬 ・ Karşınızda Mütişmel [AEDA Development](https://discord.gg/m4KsPdq9uX) <br>
+## 🌐 ・ Kişisel [Websitem](https://alkan.web.tr) <br>
 </samp>
+
+#
 
 #
 
@@ -38,7 +38,7 @@
 <div align="right" width="100%">
 
 
-## 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
+# 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
 <p>
 <img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
 	</p>
@@ -58,5 +58,5 @@
 
 #
 
-## 🎶 Gel Beraber Dinleyelim
+# 🎶 Gel Beraber Dinleyelim
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ff00&bar_color_cover=false"/>
