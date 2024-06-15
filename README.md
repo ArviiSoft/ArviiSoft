@@ -22,7 +22,7 @@
 
 #
 
-## 💖 HAKKIMDA
+### 💖 HAKKIMDA
 <samp>
 ・ 19 yaşındayım. 4 yıldır yazılıma uğraşıyorum. 8 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum. Prensiplerim doğrultusunda, kendi çapımda hayatta kalıyorum.<br>
  <br> <br>
@@ -37,7 +37,7 @@
 <div align="right" width="100%">
 
 
-👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
+### 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
 <p>
 <img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
 	</p>
@@ -50,12 +50,12 @@
 
 #
 
-📊 İSTATİSTİKLERİM
+### 📊 İSTATİSTİKLERİM
  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=arviisoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
  
  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arviisoft&theme=dark&hide_border=true"/>
 
 #
 
-🎶 Gel Beraber Dinleyelim
+### 🎶 Gel Beraber Dinleyelim
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ff00&bar_color_cover=false"/>
