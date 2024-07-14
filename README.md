@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/arviisoft/" target"blank_"><img width="15%" src="https://img.shields.io/badge/Linkedin%20-030303.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://tumblr.com/aedaa" target"blank_"><img width="13%" src="https://img.shields.io/badge/Tumblr%20-030303.svg?&style=for-the-badge&logo=tumblr&logoColor=white"></a>
 <a href="https://www.snapchat.com/add/matriell?share_id=dvou6-luAS4&locale=en-US" target"blank_"><img width="15%" src="https://img.shields.io/badge/Snapchat%20-030303.svg?&style=for-the-badge&logo=snapchat&logoColor=white"></a
+<a href="https://www.youtube.com/@arvisoloji" target"blank_"><img width="15%" src="https://img.shields.io/badge/YouTube%20-030303.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a
 
 #
 
