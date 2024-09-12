@@ -1,11 +1,11 @@
 # <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Different+ideas,+same+codes."><img align="right" width="30%" src="https://count.getloli.com/get/@:arviisoft?theme=asoul">
 
 <div align="center">
-<img src="https://github.com/ArviiSoft/ArviiSoft/assets/77796226/b64e6033-4f4f-4c05-92ca-7b6a795f0ff6" width="90%"></div>
+<img src="https://github.com/user-attachments/assets/9627432c-0faf-4375-9704-02b1e88c994e" width="90%"></div>
 
 #
 
-<img width="30%" align="right" src="https://github.com/ArviiSoft/ArviiSoft/assets/77796226/c5a3c9aa-98a3-42e5-a860-682d2c8a5350">
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/54550ff8-426f-48ca-bbfa-27a076fba693">
 <div align="left" width="100%">
 
 
@@ -31,7 +31,7 @@
 
 #
 
-<img width="30%" align="left" src="https://github.com/ArviiSoft/ArviiSoft/assets/77796226/baf19980-eeef-4bb9-a2b0-0e23fed15bcb">
+<img width="30%" align="left" src="https://github.com/user-attachments/assets/3daca17a-6b85-4c2d-939f-496811ef262a">
 <div align="right" width="100%">
 
 
@@ -43,7 +43,7 @@
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviisoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 	</p>
-<img width="30%" align="right" src="https://github.com/ArviiSoft/ArviiSoft/assets/77796226/95665d7a-2709-4f99-b48c-bdf25f987632">
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/b1ba92de-e57a-4367-bab0-5b8e2bea483c">
 <div align="left" width="100%">
 
 #
