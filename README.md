@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://discord.com/users/216222397349625857" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.instagram.com/al.kann0/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31faey2jxwiym4rahbk3nhvc64fe?si=SmwTOAisSd2P4QIcf64RIg" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://t.me/asmorofa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Telegram%20-030303.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.twitter.com/matriiell/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Twitter%20(X)%20-030303.svg?&style=for-the-badge&logo=x&logoColor=white"></a><p>
 <p align="center">
 <a href="https://wa.me/66967589023" target"blank_"><img width="18%" src="https://img.shields.io/badge/WhatsApp%20-030303.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
