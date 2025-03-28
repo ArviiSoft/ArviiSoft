@@ -15,7 +15,7 @@
 <a href="https://t.me/asmorofa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Telegram%20-030303.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.twitter.com/matriiell/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Twitter%20(X)%20-030303.svg?&style=for-the-badge&logo=x&logoColor=white"></a><p>
 <p align="center">
-<a href="https://wa.me/66967589023" target"blank_"><img width="18%" src="https://img.shields.io/badge/WhatsApp%20-030303.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+<a href="https://wa.me/" target"blank_"><img width="18%" src="https://img.shields.io/badge/WhatsApp%20-030303.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 <a href="mailto:alkan@alkan.web.tr" target"blank_"><img width="13%" src="https://img.shields.io/badge/Gmail%20-030303.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a><p>
 <a href="https://www.linkedin.com/in/arviisoft/" target"blank_"><img width="15%" src="https://img.shields.io/badge/Linkedin%20-030303.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://tumblr.com/aedaa" target"blank_"><img width="13%" src="https://img.shields.io/badge/Tumblr%20-030303.svg?&style=for-the-badge&logo=tumblr&logoColor=white"></a>
