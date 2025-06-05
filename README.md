@@ -26,7 +26,7 @@
 
 ### 💖 HAKKIMDA
 <samp>
-・ 19 yaşındayım. 4 yıldır yazılıma uğraşıyorum. 8 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum. Prensiplerim doğrultusunda, kendi çapımda hayatta kalıyorum.<br>
+・ 20 yaşındayım. 5 yıldır yazılıma uğraşıyorum. 9 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum. Prensiplerim doğrultusunda, kendi çapımda hayatta kalıyorum.<br>
  <br> <br>
 </samp>
 
