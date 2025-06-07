@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm ArviS <img src="https://raw.githubusercontent.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"></h1>
+<h1 align="center">Hi, I'm ArviS <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Different+ideas,+same+codes.;Developer+%7C+Thinker+%7C+Technologist;Crafting+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Different+ideas,+same+codes.;Crafting+Digital+Experiences" />
 </p>
 
 <p align="center">
@@ -13,12 +13,11 @@
 ### 🧠 About Me
 
 ```yaml
-Name: ArviS
+Name: Alkan (ArviS)
 Age: 20
 Experience: 5+ years
 Field: Full Stack Development & Indie Projects
-Location: 🌍 The Internet
-Mission: Making clean code and chaotic ideas work together
+Location: Antalya
 ```
 
 ---
@@ -27,7 +26,7 @@ Mission: Making clean code and chaotic ideas work together
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Mini Web** | Micro Ruby web framework built from scratch | Ruby, Rack |
+| **Mini Ruby Web** | Micro Ruby web framework built from scratch | Ruby, Rack |
 | **AI Study Tracker** | GPT-backed learning tracker w/ feedback | Ruby, SQLite, OpenAI |
 | **Terminal UI App** | Ncurses-based Ruby CLI interface | Ruby, TTY, Curses |
 
@@ -49,7 +48,7 @@ Mission: Making clean code and chaotic ideas work together
 ### 🎧 Spotify Vibes
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 ---
