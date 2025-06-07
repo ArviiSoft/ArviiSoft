@@ -16,7 +16,7 @@
 Name: Alkan
 Age: 20
 Experience: 5 year
-Field: Full Stack Development & Indie Projects
+Field: Indie Projects
 Location: Antalya
 ```
 
