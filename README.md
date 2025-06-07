@@ -26,9 +26,9 @@ Location: Antalya
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Mini Ruby Web** | Micro Ruby web framework built from scratch | Ruby, Rack |
-| **AI Study Tracker** | GPT-backed learning tracker w/ feedback | Ruby, SQLite, OpenAI |
-| **Terminal UI App** | Ncurses-based Ruby CLI interface | Ruby, TTY, Curses |
+| **CLI System Monitor** | A terminal-based system monitoring tool built with Go | GO Lang |
+| **Mini Ruby Web** | GPT-backed learning tracker w/ feedback | Ruby, SQLite, OpenAI |
+| **AI Study Tracker** | Ncurses-based Ruby CLI interface | Ruby, TTY, Curses |
 
 ---
 
