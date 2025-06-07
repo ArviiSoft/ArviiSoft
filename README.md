@@ -13,9 +13,9 @@
 ### 🧠 About Me
 
 ```yaml
-Name: Alkan (ArviS)
+Name: Alkan
 Age: 20
-Experience: 5+ years
+Experience: 5 year
 Field: Full Stack Development & Indie Projects
 Location: Antalya
 ```
