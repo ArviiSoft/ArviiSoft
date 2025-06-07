@@ -58,6 +58,8 @@ Location: Antalya
 <p align="center">
   <a href="https://discord.com/users/216222397349625857"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/al.kann0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.twitter.com/matriiell/"><img src="https://img.shields.io/badge/Twitter-080808?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://wa.me/https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25db37.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/asmorofa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arviisoft/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:alkan@alkan.web.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
