@@ -14,7 +14,7 @@
 
 ```yaml
 Name: Alkan
-Age: 20
+Age: 22
 Experience: 5 year
 Field: Indie Projects
 Location: Antalya
