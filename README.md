@@ -24,7 +24,7 @@ Location: Antalya
 
 ### 🚀 Our Last Project
 
-| Project | Description | Tech Stack |
+| Project | Description |
 |--------|-------------|------------|
 | [**NoX Finance App**](https://github.com/Payroniz/nox-finance-app) | A simple and privacy-focused mobile companion for keeping payments, debts and everyday finances under control.|
 
