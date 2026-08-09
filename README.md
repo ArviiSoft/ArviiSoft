@@ -22,13 +22,11 @@ Location: Antalya
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Our Last Project
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **CLI System Monitor** | A terminal-based system monitoring tool built with Go | GO Lang |
-| **Mini Ruby Web** | GPT-backed learning tracker w/ feedback | Ruby, SQLite, OpenAI |
-| **AI Study Tracker** | Ncurses-based Ruby CLI interface | Ruby, TTY, Curses |
+| [**NoX Finance App**](https://github.com/Payroniz/nox-finance-app) | A simple and privacy-focused mobile companion for keeping payments, debts and everyday finances under control.|
 
 ---
 
@@ -45,21 +43,12 @@ Location: Antalya
 
 ---
 
-### 🎧 Spotify Vibes
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
----
 
 ### 🌍 Connect With Me
 
 <p align="center">
   <a href="https://discord.com/users/216222397349625857"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.instagram.com/al.kann0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitter.com/matriiell/"><img src="https://img.shields.io/badge/Twitter-080808?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://wa.me/https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25db37.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://alkan.web.tr/"><img src="https://img.shields.io/badge/Web Site-E4405F?style=for-the-badge&logo=web&logoColor=white"></a>
   <a href="https://t.me/asmorofa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arviisoft/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:alkan@alkan.web.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -67,4 +56,4 @@ Location: Antalya
 
 ---
 
-<p align="center"><i>Crafting one line at a time — from chaos to clarity.</i></p>
+<p align="center"><i>Crafting one line at a time - from chaos to clarity.</i></p>
