@@ -1,59 +1,34 @@
-<h1 align="center">Hi, I'm ArviS <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"></h1>
+<!-- The hero and cards are local assets. Upload the assets folder alongside this README. -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Different+ideas,+same+codes.;Crafting+Digital+Experiences" />
+  <img src="./assets/hero.png" width="100%" alt="Hi, I'm ArviS — Crafting Digital Experiences. Different ideas, same codes. Ruby, JavaScript, TypeScript, Go, Python, HTML, CSS, Node.js, MySQL, MongoDB." />
+</p>
+
+<p>
+  <img src="./assets/about.svg" width="100%" alt="About Me — Name: Alkan; Age: 23; Experience: 6 years; Field: Indie Projects; Location: Antalya." />
+</p>
+
+<p>
+  <a href="https://github.com/Payroniz/nox-finance-app"><img src="./assets/project.svg" width="100%" alt="NoX Finance App — A simple and privacy-focused mobile companion for keeping payments, debts and everyday finances under control. View repository." /></a>
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ArviiSoft"><img src="https://github-stats-extended.vercel.app/api?username=arviisoft&amp;bg_color=30%2C0d1726%2C192440&amp;title_color=e3ebff&amp;text_color=b8cdf5&amp;icon_color=69c6ff&amp;border_color=34466c&amp;border_radius=15&amp;disable_animations=true&amp;custom_title=arviisoft&amp;show_icons=true&amp;hide_rank=true&amp;hide=issues%2Ccontribs&amp;card_width=480&amp;line_height=34" width="49%" alt="ArviS' GitHub stars, commits and pull requests" /></a>
+  <a href="https://github.com/ArviiSoft"><img src="https://streak-stats.demolab.com/?user=arviisoft&amp;theme=tokyonight&amp;background=0d1726&amp;border=34466c&amp;stroke=34466c&amp;ring=8270ff&amp;fire=6ccfff&amp;currStreakNum=e3ebff&amp;currStreakLabel=b8cdf5&amp;dates=8298bd&amp;border_radius=15&amp;card_width=480&amp;card_height=177&amp;hide_total_contributions=true&amp;hide_longest_streak=true&amp;disable_animations=true&amp;timezone=Europe%2FIstanbul" width="49%" alt="ArviS' current GitHub contribution streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,js,ts,go,python,html,css,nodejs,mysql,mongodb" />
+  <a href="https://github.com/ArviiSoft?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arviisoft&amp;bg_color=30%2C0d1726%2C192440&amp;title_color=e3ebff&amp;text_color=b8cdf5&amp;icon_color=69c6ff&amp;border_color=34466c&amp;border_radius=15&amp;disable_animations=true&amp;layout=compact&amp;langs_count=5&amp;card_width=960&amp;custom_title=Languages" width="100%" alt="Most used languages in ArviS' public GitHub repositories" /></a>
 </p>
 
----
-
-### 🧠 About Me
-
-```yaml
-Name: Alkan
-Age: 22
-Experience: 5 year
-Field: Indie Projects
-Location: Antalya
-```
-
----
-
-### 🚀 Our Last Project
-
-| Project | Description |
-|--------|-------------|
-| [**NoX Finance App**](https://github.com/Payroniz/nox-finance-app) | A simple and privacy-focused mobile companion for keeping payments, debts and everyday finances under control.|
-
----
-
-### 📈 GitHub Stats
+### Connect With Me
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arviisoft&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=arviisoft&theme=tokyonight&hide_border=true"/>
+  <a href="https://discord.com/users/216222397349625857"><img src="./assets/discord.svg" width="104" alt="Discord" /></a><a href="https://alkan.web.tr/"><img src="./assets/website.svg" width="104" alt="Website" /></a><a href="https://t.me/asmorofa"><img src="./assets/telegram.svg" width="104" alt="Telegram" /></a><a href="https://www.linkedin.com/in/arviisoft/"><img src="./assets/linkedin.svg" width="104" alt="LinkedIn" /></a><a href="mailto:alkan@alkan.web.tr"><img src="./assets/email.svg" width="104" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviisoft&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./assets/footer.svg" width="100%" alt="Crafting one line at a time - from chaos to clarity." />
 </p>
-
----
-
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://discord.com/users/216222397349625857"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://alkan.web.tr/"><img src="https://img.shields.io/badge/Web Site-E4405F?style=for-the-badge&logo=web&logoColor=white"></a>
-  <a href="https://t.me/asmorofa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/arviisoft/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:alkan@alkan.web.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-<p align="center"><i>Crafting one line at a time - from chaos to clarity.</i></p>
