@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img src="./assets/about.svg" width="100%" alt="About Me — Name: Alkan; Age: 23; Experience: 6 years; Field: Indie Projects; Location: Antalya." />
+  <img src="./assets/about.svg" width="100%" alt="About Me — Name: Alkan; Age: 23; Experience: 8 years; Field: Indie Projects; Location: Antalya." />
 </p>
 
 <p>
